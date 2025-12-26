@@ -3,9 +3,8 @@ My personal mini portfolio showcasing my projects and GitHub links.
 ## Projects
 Here are some of my projects:
 
-- [Calculator (Python)] (https://github.com/sahar-benhbib/calculator)
-- 
-- [Login/Register (Python)] (https://github.com/sahar-benhbib/LOGIN/tree/main)
+- [Calculator (Python)](https://github.com/sahar-benhbib/calculator)
+- [Login/Register (Python)](https://github.com/sahar-benhbib/LOGIN/tree/main)
 - [Mini Website (HTML/CSS)](https://github.com/sahar-benhbib/website)
 
 ## How to Use
